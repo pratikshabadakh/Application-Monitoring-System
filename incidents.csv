@@ -1,0 +1,9 @@
+Incident_ID,Priority,Module,Status,Assigned_To,Resolution_Time(Hours)
+INC001,High,Login,Closed,L1 Support,2
+INC002,Medium,Payment,Open,L1 Support,0
+INC003,High,Orders,Closed,L2 Support,5
+INC004,Low,Search,Closed,L1 Support,1
+INC005,High,Payment,Open,L2 Support,0
+INC006,Medium,Cart,Closed,L1 Support,3
+INC007,High,Payment,Closed,L2 Support,6
+INC008,Low,Search,Closed,L1 Support,1
