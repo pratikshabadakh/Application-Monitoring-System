@@ -1,4 +1,3 @@
-/Add SQL analysis queries
 
 -- Total incidents
 SELECT COUNT(*) AS Total_Incidents
